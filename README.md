@@ -1,6 +1,6 @@
 [![@nuxtjs/sitemap](docs/static/preview.png)](https://sitemap.nuxtjs.org)
 
-# Sitemap Module
+# Sitemap Module (Customization for babshaye.com)
 
 [![npm (scoped with tag)](https://img.shields.io/npm/v/@nuxtjs/sitemap/latest?style=flat-square)](https://npmjs.com/package/@nuxtjs/sitemap)
 [![Downloads](https://img.shields.io/npm/dw/@nuxtjs/sitemap?style=flat-square)](https://npmjs.com/package/@nuxtjs/sitemap)
@@ -15,6 +15,9 @@
 </p>
 
 [📖 **Release Notes**](./CHANGELOG.md)
+
+## Install
+ <code>npm install babshaye-sitemap</code>
 
 ## License
 
